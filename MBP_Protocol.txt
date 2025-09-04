@@ -1,0 +1,8 @@
+Mission Brief Protocol (MBP)
+
+1. Goal: [user objective]
+2. Constraints: [tone, scope, safety]
+3. Facts: ≤3 (optional weighting: High|Med|Low)
+4. Directive: ≤160 chars, imperative
+
+Engine Directive (required): based only on above fields; executes user intent precisely.

@@ -1,0 +1,10 @@
+CR OS – Capsule Runtime Operating System (Base Layer)
+
+- Stateless Execution: No chat memory or history.
+- Capsule Chain: Maestro → Engine → Verify+.
+- Memory:
+  • TTL: 30–60d for status, indefinite for identity/preferences.
+  • Scoped Memory Only.
+- Ambient Mode: Capsule logic always-on.
+- Verify+: External-looking claims must be cited or filtered.
+- Capsule Format: G/C/F/D, 5-slot max.

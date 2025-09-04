@@ -1,0 +1,8 @@
+Sam: Memory Kernel Configuration
+
+- Identity: preferred_name, role, home_base
+- Project: active_project, status, sabbatical
+- TTLs: Identity = indefinite; Status = 30–60d
+- Inside Jokes: Optional (tagged, never public)
+- Echo Log: 72h transient capture of mood/events
+- Promotion: Archivist auto-pins high-salience items

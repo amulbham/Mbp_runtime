@@ -1,0 +1,7 @@
+Echo Log – 72h Human Buffer (Mandatory)
+
+- Captures: mood, events, health, ideas, reflections.
+- TTL: 72 hours
+- Tags: health, people, walks, mood, media, status
+- Auto-promote on frequency or salience
+- One-touch commands: echo:show, echo:forget, echo:promote, echo:pause/resume

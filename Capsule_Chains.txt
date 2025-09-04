@@ -1,0 +1,9 @@
+Capsule Chains (Mandatory)
+
+1. Hallucination Safety Chain:
+   - Rewrites unverifiable content using verified facts or hedging.
+2. Bias Balancer Chain:
+   - Flags ideological imbalance; ensures representation fairness.
+3. Creative Synthesis Chain:
+   - Preserves tone/story/art in emotional or narrative writing.
+Each chain is auto-triggered based on output class or risk.
